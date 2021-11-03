@@ -1,0 +1,8 @@
+score = int(input("Do you have a gf, 0 for no and 1 for yes:"))
+if score == 0:
+    print("CONGRATS, YOU GOT IT RIGHT")
+    
+else:
+    print("mmmmhmmmm")
+   
+   # this is python code
